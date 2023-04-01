@@ -1,0 +1,5 @@
+RemoteHost=example.com
+RemotePath=/path/to/remote/folder
+RemoteUser=username
+RemotePass=password
+MirrorFolder=/path/to/mirror/folder
